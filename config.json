@@ -1,0 +1,4 @@
+{
+    "servidor": "http://localhost:8080",
+    "maxConexoes": 10
+}
